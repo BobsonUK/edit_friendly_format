@@ -1,2 +1,2 @@
 # Edit Friendly Format
-Transcode video &amp; audio file(s) into a more edit friendly format.
+Straightforward way to quickly transcode video & audio file(s) into a more edit friendly format, smoother timeline scrubbing.

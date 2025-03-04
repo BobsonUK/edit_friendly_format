@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.bobsonuk.edit_friendly_format</id>
+
+  <name>Edit Friendly Format</name>
+  <summary>Transcode video &amp; audio file(s) into a more edit friendly format</summary>
+
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LGPL-3.0-or-later</project_license>
+
+  <description>
+    <p>
+      Straightforward way to quickly transcode video &amp; audio file(s) into a more edit friendly format, smoother timeline scrubbing.
+    </p>
+  </description>
+
+  <launchable type="desktop-id">io.github.bobsonuk.edit_friendly_format.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://github.com/bobsonuk/edit_friendly_format/blob/main/data/screenshots/screenshot_1.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/bobsonuk/edit_friendly_format/blob/main/data/screenshots/screenshot_2.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/bobsonuk/edit_friendly_format/blob/main/data/screenshots/screenshot_3.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/bobsonuk/edit_friendly_format/blob/main/data/screenshots/screenshot_4.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/bobsonuk/edit_friendly_format/blob/main/data/screenshots/screenshot_5.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/bobsonuk/edit_friendly_format/blob/main/data/screenshots/screenshot_6.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/bobsonuk/edit_friendly_format/blob/main/data/screenshots/screenshot_7.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/bobsonuk/edit_friendly_format/blob/main/data/screenshots/screenshot_8.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/bobsonuk/edit_friendly_format/blob/main/data/screenshots/screenshot_9.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/bobsonuk/edit_friendly_format/blob/main/data/screenshots/screenshot_10.png</image>
+    </screenshot>
+  </screenshots>
+
+  <url type="homepage">https://github.com/bobsonuk/edit_friendly_format</url>
+  <url type="vcs-browser">https://github.com/bobsonuk/edit_friendly_format</url>
+  <releases>
+    <release date="2025-04-25" version="1.0.0"/>
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Edit Friendly Format
+Comment=Transcode video & audio file(s) into a more edit friendly format.
+Categories=AudioVideo;AudioVideoEditing;
+
+Icon=io.github.bobsonuk.edit_friendly_format
+Exec=edit_friendly_format_main.sh
+Terminal=false
+Keywords=video;transcode;
+StartupNotify=true

@@ -2,13 +2,15 @@
 <p align="center">
     <img width="400" src="data/icons/io.github.bobsonuk.edit_friendly_format.svg" alt="Edit Friendly Format Logo">
 </p>
-
-Straightforward way to quickly transcode video & audio file(s) into a more edit friendly format, smoother timeline scrubbing.
+<h2>Intro</h2>
+<p>Straightforward way to quickly transcode video & audio file(s) into a more edit friendly format, smoother timeline scrubbing.
+<br>
 <p align="center">
 <img src="data/screenshots/screenshot_1.png" alt="Welcome">
 </p>
+</p>
 
-# Video File(s)
+<h2>Video File(s)</h2>
 
 <p align="center">
     <img src="data/screenshots/screenshot_2.png" alt="Select Video File(s)">
@@ -18,7 +20,7 @@ Straightforward way to quickly transcode video & audio file(s) into a more edit 
     <img src="data/screenshots/screenshot_10.png" alt="View Output Folder">
 </p>
 
-# Audio File(s)
+<h2>Audio File(s)</h2>
 
 <p align="center">
     <img src="data/screenshots/screenshot_6.png" alt="Select Audio File(s)">

@@ -4,11 +4,12 @@
 </p>
 <h2>Intro</h2>
 <p>
-Edit Friendly Format is a Flatpak application that simplifies media editing by offering a suite of easy-to-use shell scripts for audio and video processing. Built with flexibility in mind, this project provides a unified workflow for transcoding media file(s) into an Edit Friendly Format. (edit_friendly_format)
-<br>
+    
+Edit Friendly Format is a Flatpak application that simplifies media editing by offering a suite of easy-to-use shell scripts for audio and video processing. Built with flexibility in mind, this project provides a unified workflow for transcoding media file(s) into an Edit Friendly Format. (**edit_friendly_format**)
+
+
 <p align="center">
 <img src="data/screenshots/screenshot_1.png" alt="Welcome Screen.">
-</p>
 </p>
 
 <h2>Key Features</h2>

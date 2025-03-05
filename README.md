@@ -45,3 +45,7 @@ Edit Friendly Format uses **ffmpeg** to transcode video file(s) into **DNxHR_HQ*
 <h2>Contributing</h2>
 
 Contributions, bug reports, and feature suggestions are welcome! Feel free to fork the repository, open issues, and submit pull requests.
+
+<h2>License</h2>
+
+This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for more details.

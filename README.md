@@ -4,13 +4,20 @@
 </p>
 <h2>Intro</h2>
 <p>Straightforward way to quickly transcode video & audio file(s) into a more edit friendly format, smoother timeline scrubbing.
+Edit Friendly Format is a Flatpak application that simplifies media editing by offering a suite of easy-to-use shell scripts for audio and video processing. Built with flexibility in mind, this project provides a unified workflow for converting and reformatting media files into editing-friendly formats.
 <br>
 <p align="center">
-<img src="data/screenshots/screenshot_1.png" alt="Welcome">
+<img src="data/screenshots/screenshot_1.png" alt="Welcome Screen.">
 </p>
 </p>
 
-<h2>Video File(s)</h2>
+<h2>Key Features</h2>
+
+- Audio Processing
+- Video Processing
+- Unified Workflow
+
+<h2>Video File(s) - Screenshots</h2>
 
 <p align="center">
     <img src="data/screenshots/screenshot_2.png" alt="Select Video File(s)">
@@ -20,7 +27,7 @@
     <img src="data/screenshots/screenshot_10.png" alt="View Output Folder">
 </p>
 
-<h2>Audio File(s)</h2>
+<h2>Audio File(s) - Screenshots</h2>
 
 <p align="center">
     <img src="data/screenshots/screenshot_6.png" alt="Select Audio File(s)">

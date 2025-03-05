@@ -3,8 +3,8 @@
     <img width="400" src="data/icons/io.github.bobsonuk.edit_friendly_format.svg" alt="Edit Friendly Format Logo">
 </p>
 <h2>Intro</h2>
-<p>Straightforward way to quickly transcode video & audio file(s) into a more edit friendly format, smoother timeline scrubbing.
-Edit Friendly Format is a Flatpak application that simplifies media editing by offering a suite of easy-to-use shell scripts for audio and video processing. Built with flexibility in mind, this project provides a unified workflow for converting and reformatting media files into editing-friendly formats.
+<p>
+Edit Friendly Format is a Flatpak application that simplifies media editing by offering a suite of easy-to-use shell scripts for audio and video processing. Built with flexibility in mind, this project provides a unified workflow for transcoding media file(s) into an Edit Friendly Format. (edit_friendly_format)
 <br>
 <p align="center">
 <img src="data/screenshots/screenshot_1.png" alt="Welcome Screen.">
@@ -13,9 +13,13 @@ Edit Friendly Format is a Flatpak application that simplifies media editing by o
 
 <h2>Key Features</h2>
 
-- Audio Processing
+- Audio Processing 
 - Video Processing
 - Unified Workflow
+
+<h2>Technical</h2>
+
+Edit Friendly Format uses **ffmpeg** to transcode video file(s) into **DNxHR_HQ** video codec with **pcm_s24le** audio codec, turning **video.mp4** into **video_edit_friendly_format.mov**, the same with audio file(s) **audio.mp3** becomes **audio_edit_friendly_format.wav**.
 
 <h2>Video File(s) - Screenshots</h2>
 
@@ -36,3 +40,7 @@ Edit Friendly Format is a Flatpak application that simplifies media editing by o
     <img src="data/screenshots/screenshot_9.png" alt="Edit_Friendly_Format">
     <img src="data/screenshots/screenshot_10.png" alt="View Output Folder">
 </p>
+
+<h2>Contributing</h2>
+
+Contributions, bug reports, and feature suggestions are welcome! Feel free to fork the repository, open issues, and submit pull requests.

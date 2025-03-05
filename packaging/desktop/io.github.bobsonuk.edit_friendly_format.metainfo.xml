@@ -48,10 +48,17 @@
     </screenshot>
   </screenshots>
 
+  <developer id="io.github.bobsonuk">
+    <name translate="no">Kevin McDonald</name>
+  </developer>
+  <update_contact>duke-unless-cried@duck.com</update_contact>
+
   <url type="homepage">https://github.com/bobsonuk/edit_friendly_format</url>
   <url type="vcs-browser">https://github.com/bobsonuk/edit_friendly_format</url>
+  <url type="bugtracker">https://github.com/bobsonuk/edit_friendly_format/issues</url>
+  <url type="donation">https://paypal.me/BOBSON</url>
   <releases>
-    <release date="2025-04-25" version="1.0.0"/>
+    <release date="2025-03-05" version="1.0.0"/>
   </releases>
   <content_rating type="oars-1.1" />
 </component>
